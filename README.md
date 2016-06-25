@@ -9,4 +9,11 @@ Example on page 400
 2. Make a component
 3. Add Component to Frame
 4. Make Frame visible
-¡
+
+
+
+
+Text Input example page 413
+Text Area Example page 414 - 415
+Check Box Example pg 416
+List Example Page 417
